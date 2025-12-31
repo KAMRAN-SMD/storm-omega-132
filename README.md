@@ -3,12 +3,12 @@
 <a><img src='https://files.catbox.moe/ljah2h.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/KAMRAN-SMD"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/KAMRAN-SMD"><img title="Developer" src="https://img.shields.io/badge/Author-KAMRAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{KAMRAN-MD}/count.svg" alt="DRKAMRAN :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KAMRAN-SMD}/count.svg" /></p>
