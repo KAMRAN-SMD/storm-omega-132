@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=SHABAN-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=KAMRAN-MD" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://files.catbox.moe/ljah2h.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/KAMRAN-SMD"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 </div>
 
- <p align="center"><img src="https://files.catbox.moe/ljah2h.jpg" alt="DRKAMRAN :: Visitor's Count" old_src="https://files.catbox.moe/ljah2h.jpg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KAMRAN-MD}/count.svg" alt="DRKAMRAN :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KAMRAN-SMD}/count.svg" /></p>
 
 
 <p align="center">
@@ -120,7 +120,7 @@ jobs:
 
 ## 🗃️ _PROJECT ARCHITECTS_
 <div align="center">
-  <a href="https://github.com/MRSHABAN40">
+  <a href="https://github.com/KAMRAN-SMD">
     <img src="https://github-readme-stats.vercel.app/api?username=MRSHABAN40&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
